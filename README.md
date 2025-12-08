@@ -1,12 +1,10 @@
-# Daphneander93.github.io-
-My first page
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>A full site layout.</title>
-  </head>
+    <head>
+        <title>Home Page</title>
+    </head>
 
-  <body>
-  </body>
-
+    <body>
+        <h1>Hello World!</h1>
+    </body>
 </html>
