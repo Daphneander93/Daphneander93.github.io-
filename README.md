@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Home Page</title>
-    </head>
-
-    <body>
-        <h1>Hello World!</h1>
-    </body>
-</html>
+/* CSS page */
+ctx.arc(100, 100, 50, 0, Math.PI * 2);
+ctc.stroke();
